@@ -2,3 +2,4 @@ This file should be ignored
 made first changes
 More Changes
 More changes
+THIS MODIFICATION SHOULD NOT BE TRACKED BY GIT
