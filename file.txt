@@ -1,4 +1,5 @@
 First line
 Forth line after deleting second and third
 fifthe line sixth line
+sixth line
 	
