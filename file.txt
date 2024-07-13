@@ -1,7 +1,4 @@
-A
-B
-C
-D
-E                                       
+This is the first line of this text file
+                                      
                       
  	
